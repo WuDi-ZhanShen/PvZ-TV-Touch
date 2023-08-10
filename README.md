@@ -17,9 +17,7 @@ Adapted for higher versions of Android system, removed unnecessary code and perm
 
 3.模仿者变的植物不是灰色；(游戏本身的缺陷)
 
-4.小游戏“坚不可摧”无法在开始游戏前的准备时期种植物；(游戏本身的缺陷)
-
-5.图鉴界面最后一行的触控判定位置偏上；且图鉴界面的"查看植物"和"查看僵尸"按钮会持续起作用 (游戏本身的缺陷)
+4.图鉴界面最后一行的触控判定位置偏上；且图鉴界面的"查看植物"和"查看僵尸"按钮会持续起作用 (游戏本身的缺陷)
 
 
 
@@ -29,6 +27,4 @@ Adapted for higher versions of Android system, removed unnecessary code and perm
 
 3.Imitator's transformed plants are not gray. (Inherent game issue)
 
-4.In the mini-game "Last Stand", plants cannot be planted during the preparation phase before the game starts. (Inherent game issue)
-
-5.The touchscreen detection for the last row in the Almanac interface is slightly off, and the "View Plant" and "View Zombie" buttons in the Almanac interface remain active continuously. (Inherent game issue)
+4.The touchscreen detection for the last row in the Almanac interface is slightly off, and the "View Plant" and "View Zombie" buttons in the Almanac interface remain active continuously. (Inherent game issue)
