@@ -11,20 +11,12 @@ Download the TV-1.1.5.zip from the "release" section, and import it into Android
 
 Adapted for higher versions of Android system, removed unnecessary code and permissions, and added some new settings options.
 # 还有什么缺陷？ What are the remaining flaws or defects?
-1.花园工具使用后会自动变回水壶；(触控的缺陷)
+1.模仿者变的植物不是灰色；(游戏本身的缺陷)
 
-2.路灯花照不透罐子；(游戏本身的缺陷)
-
-3.模仿者变的植物不是灰色；(游戏本身的缺陷)
-
-4.图鉴界面最后一行的触控判定位置偏上；且图鉴界面的"查看植物"和"查看僵尸"按钮会持续起作用 (游戏本身的缺陷)
+2.图鉴界面最后一行的触控判定位置偏上；且图鉴界面的"查看植物"和"查看僵尸"按钮会持续起作用 (游戏本身的缺陷)
 
 
 
-1.ZenGarden tools automatically revert back to the watering can after use. (Touchscreen issue)
+1.Imitator's morphed plants are not gray. (Inherent game issue)
 
-2.Plantern does not illuminate the vase. (Inherent game issue)
-
-3.Imitator's transformed plants are not gray. (Inherent game issue)
-
-4.The touchscreen detection for the last row in the Almanac interface is slightly off, and the "View Plant" and "View Zombie" buttons in the Almanac interface remain active continuously. (Inherent game issue)
+2.The touchscreen detection for the last row in the Almanac interface is slightly off, and the "View Plant" and "View Zombie" buttons in the Almanac interface remain active continuously. (Inherent game issue)
