@@ -13,10 +13,10 @@ Adapted for higher versions of Android system, removed unnecessary code and perm
 # 还有什么缺陷？ What are the remaining flaws or defects?
 1.模仿者变的植物不是灰色；(游戏本身的缺陷)
 
-2.图鉴界面最后一行的触控判定位置偏上；且图鉴界面的"查看植物"和"查看僵尸"按钮会持续起作用 (游戏本身的缺陷)
+2.图鉴界面最后一行的触控判定位置偏上 (游戏本身的缺陷)
 
 
 
 1.Imitator's morphed plants are not gray. (Inherent game issue)
 
-2.The touchscreen detection for the last row in the Almanac interface is slightly off, and the "View Plant" and "View Zombie" buttons in the Almanac interface remain active continuously. (Inherent game issue)
+2.The touchscreen detection for the last row in the Almanac interface is slightly off (Inherent game issue)
