@@ -19,4 +19,4 @@ Adapted for higher versions of Android system, removed unnecessary code and perm
 
 1.Imitator's morphed plants are not gray. (Inherent game issue)
 
-2.The touchscreen detection for the last row in the Almanac interface is slightly off (Inherent game issue)
+2.The touchscreen detection for the last row in the Almanac page is slightly off (Inherent game issue)
