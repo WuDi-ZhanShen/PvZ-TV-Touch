@@ -10,13 +10,4 @@ Download the TV-1.1.5.zip from the "release" section, and import it into Android
 适配了高版本安卓系统，去除了一些不需要的代码和权限，加入了一些设置项。
 
 Adapted for higher versions of Android system, removed unnecessary code and permissions, and added some new settings options.
-# 还有什么缺陷？ What are the remaining flaws or defects?
-1.模仿者变的植物不是灰色；(游戏本身的缺陷)
 
-2.图鉴界面最后一行的触控判定位置偏上 (游戏本身的缺陷)
-
-
-
-1.Imitator's morphed plants are not gray. (Inherent game issue)
-
-2.The touchscreen detection for the last row in the Almanac page is slightly off (Inherent game issue)
